@@ -1,8 +1,8 @@
 {
     "env":{
-        "DB_USER":"Dev",
-        "DB_PASSWORD":"Divyesh123",
-        "DB_NAME":"mern",
-        "JWT_KEY":"supersecret_dont_share"
+        "DB_USER":"YOUR_DATABSE_USERNAME",
+        "DB_PASSWORD":"YOUR_DATABASE_PASSWORD",
+        "DB_NAME":"DATABASE_NAME",
+        "JWT_KEY":"JWT_SECRECTCODE"
     }
 }
